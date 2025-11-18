@@ -12,8 +12,9 @@ Machine learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |  |  | **I семестр** |  |
-| Лекция 1 | 09.09.2024 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect01)<br />[видеозапись](https://ml4es.ru/links/2025-09-09-ML4ES2025-Lect01) |
-| Лекция 2 | 23.09.2024 | Классические и статистические модели в науках о Земле | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2025-09-23-ML4ES2025-Lect02) |
+| Лекция 1 | 09.09.2025 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect01)<br />[видеозапись](https://ml4es.ru/links/2025-09-09-ML4ES2025-Lect01) |
+| Лекция 2 | 23.09.2025 | Машинное обучение в научном методе: постановка задач, признаки, модели и обобщение | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2025-09-23-ML4ES2025-Lect02) |
+| Лекция 3 | 18.11.2025 |  |  |
 
 
 
