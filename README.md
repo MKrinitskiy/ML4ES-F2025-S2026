@@ -7,6 +7,18 @@ Machine learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://
 
 [Правила распространения источников](./resources_policy.md)<br />
 
+
+
+<u>Зачетная сессия I семестра</u>
+
+Состав домашних заданий за I семестр зафиксирован на двух.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/leaderboard_1semester.md) уже сейчас можно ознакомиться с отметками об автозачетах, допуске к зачету и зачетах.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/term1_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
+
+
+
 -------
 
 | Title | Date | Topic | Content |
@@ -16,7 +28,9 @@ Machine learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://
 | Лекция 2 | 23.09.2025 | Машинное обучение в научном методе: постановка задач, признаки, модели и обобщение | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2025-09-23-ML4ES2025-Lect02) |
 | Лекция 3 | 18.11.2025 | Типы задач машинного обучения: постановка, структура и свойства | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2025-11-18-ML4ES2025-Lect03) |
 | Лекция 4 | 18.11.2025 | Примеры постановок задач МО в науках о Земле.<br />Разбор ДЗ №1 | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2025-11-18-ML4ES2025-Lect04) |
-| ДЗ №1 | 18.11.2025<br />дедлайн: **28.11.2025** | Постановка задач машинного обучения в науках о Земле | [описание](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW01/HW01-README.md)<br />[доска достижений]() |
+| ДЗ №1 | 18.11.2025<br />дедлайн: **28.11.2025** | Постановка задач машинного обучения в науках о Земле | [описание](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW01/HW01-README.md)<br />[доска достижений](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW01/leaderboard.md) |
+| Лекция 5 |  | Контролируемое обучение и принцип максимального правдоподобия.<br />Признаковое описание и его роль в качестве моделей | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect05)<br />[видеозапись](https://ml4es.ru/links/2025-12-09-ML4ES2025-Lect04) |
+| ДЗ №2 | 09.12.2025<br />дедлайн: **16.12.2025** | Вывод функции потерь для линейной регрессии в предположении о распределении целевой переменной по Лапласу | [описание](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW01/HW02-README.md)<br />[доска достижений](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW01/leaderboard.md) |
 
 
 
