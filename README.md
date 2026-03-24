@@ -36,7 +36,10 @@ Machine learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://
 | Лекция 11 | 24.02.2026 | Задачи классификации. Вероятностные методы. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect11)<br />[видеозапись](https://ml4es.ru/links/2026-02-24-ML4ES2025-Lect11) |
 | ДЗ №3 | 03.03.2026<br />дедлайн: **17.03.2026** | Классификация эпизодов загрязнения воздуха (Beijing AQ & Weather) | [рамочный ноутбук](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW03/ML4ES2026-HW2.1-Classification_BeijingAQ.ipynb)<br />[доска достижений](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW03/leaderboard.md) |
 | Лекция 12 | 03.03.2026 | Задачи классификации. Логистическая регрессия. | [видеозапись](https://ml4es.ru/links/2026-03-03-ML4ES2025-Lect12)<br />[материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect12) |
-| Лекция 13 | 10.03.2026 | Градиентная оптимизация параметрических моделей |  |
+| Лекция 13 | 10.03.2026 | Градиентная оптимизация параметрических моделей | [видеозапись](https://ml4es.ru/links/2026-03-10-ML4ES2025-Lect13)<br />[материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect13) |
+| Лекция 14 | 17.03.2026 | Мультиномиальная логистическая регрессия;<br />Автоматическое дифференцирование с применением библиотеки JAX | [видеозапись](https://ml4es.ru/links/2026-03-17-ML4ES2025-Lect14)<br />[материалы](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/Lect14) |
+| Лекция 15 | 24.03.2026 | Меры качества в задачах классификации |  |
+| ДЗ №4 | 24.03.2026<br />дедлайн: **07.04.2026** | Оценка качества моделей классификации | [Задание](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/HW04/HW04.md) |
 
 
 
