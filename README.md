@@ -19,6 +19,14 @@ Machine learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://
 
 
 
+<u>Зачетная сессия II семестра</u>
+
+Состав домашних заданий за II семестр зафиксирован на двух
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES-F2025-S2026/tree/main/leaderboard_2semester.md) уже сейчас можно ознакомиться с отметками об автозачетах, допуске к зачету и зачетах.
+
+
+
 -------
 
 | Title | Date | Topic | Content |
